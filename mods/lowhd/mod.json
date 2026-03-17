@@ -1,0 +1,16 @@
+{
+  "display_name": "lowhd",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "mod_folder": "lowhd",
+  "saved_games_folder": "lowhd",
+  "startup_params": {
+    "txt": true,
+    "direct": false,
+    "w": false,
+    "ns": true,
+    "extra_args": ""
+  },
+  "download_url": "https://github.com/InariusTV/D2RHelper/releases/download/mod-lowhd-1.0.0/lowhd.zip"
+}
