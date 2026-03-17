@@ -1,0 +1,16 @@
+{
+  "display_name": "lowesthd",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "mod_folder": "lowesthd",
+  "saved_games_folder": "lowesthd",
+  "startup_params": {
+    "txt": true,
+    "direct": false,
+    "w": false,
+    "ns": true,
+    "extra_args": ""
+  },
+  "download_url": "https://github.com/InariusTV/D2RHelper/releases/download/mod-lowesthd-1.0.0/lowesthd.zip"
+}
