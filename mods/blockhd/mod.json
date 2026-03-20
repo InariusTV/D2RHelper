@@ -1,0 +1,16 @@
+{
+  "display_name": "blockhd",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "mod_folder": "blockhd",
+  "saved_games_folder": "blockhd",
+  "startup_params": {
+    "txt": true,
+    "direct": false,
+    "w": false,
+    "ns": true,
+    "extra_args": ""
+  },
+  "download_url": "https://github.com/InariusTV/D2RHelper/releases/download/mod-blockhd-1.0.0/blockhd.zip"
+}
